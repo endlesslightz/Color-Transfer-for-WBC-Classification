@@ -1,0 +1,11 @@
+[DeepCT] Device: cuda
+
+============================================================
+Running: PCC
+============================================================
+
+[PCC] --- Performance ---
+[PCC] Average Processing Time   : 0.075 s/image
+[PCC] RAM Memory Consumption    : Peak Delta = 43.4 MiB
+
+Done

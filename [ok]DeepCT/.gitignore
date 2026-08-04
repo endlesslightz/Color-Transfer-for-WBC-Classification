@@ -1,0 +1,11 @@
+/env/
+/data/
+/Models/
+/build/
+/colortransfer.egg-info/
+/ColorTransferLib.egg-info/
+/dist/
+__pycache__/
+**.pyc
+.DS_Store
+

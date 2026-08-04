@@ -1,0 +1,2 @@
+Model,Acc_mean,Acc_std,Prec_mean,Prec_std,Rec_mean,Rec_std,F1_mean,F1_std
+bestReinhard,0.2,0.0,0.04,0.0,0.2,0.0,0.06666666666666668,0.0

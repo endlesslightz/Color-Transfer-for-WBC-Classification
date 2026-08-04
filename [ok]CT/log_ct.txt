@@ -1,0 +1,42 @@
+Using device: cuda
+
+============================================================
+Running: Reinhard (Color Transfer between Images)
+============================================================
+
+[Reinhard] --- Performance ---
+[Reinhard] Average Processing Time   : 0.261 s/image
+[Reinhard] RAM Memory Consumption    : Peak Delta = 92.2 MiB
+
+============================================================
+Running: Xiao (Color Transfer in Correlated Color Space)
+============================================================
+
+[Xiao] --- Performance ---
+[Xiao] Average Processing Time   : 0.059 s/image
+[Xiao] RAM Memory Consumption    : Peak Delta = 48.8 MiB
+
+============================================================
+Running: Monge-Kantorovitch
+============================================================
+
+[MK] --- Performance ---
+[MK] Average Processing Time   : 0.052 s/image
+[MK] RAM Memory Consumption    : Peak Delta = 48.8 MiB
+
+============================================================
+Running: Iterative Distribution Transfer
+============================================================
+
+[IterDist] --- Performance ---
+[IterDist] Average Processing Time   : 1.615 s/image
+[IterDist] RAM Memory Consumption    : Peak Delta = 133.6 MiB
+
+
+============================================================
+Running: HIS
+============================================================
+
+[HIS] --- Performance ---
+[HIS] Average Processing Time   : 3.002 s/image
+[HIS] RAM Memory Consumption    : Peak Delta = 190.8 MiB
