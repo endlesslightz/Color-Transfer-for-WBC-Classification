@@ -35,3 +35,10 @@ The experiments are conducted on three publicly available datasets. Please downl
 Install the required dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
+```
+
+## 📚 Citation
+
+If you use this work or the evaluated color transfer algorithms, please cite:
+
+Prakisya, N. P. T., Afiahayati, & Tyas, D. A. (2026). Color transfer for enhanced white blood cell classification in deep learning. *Informatics in Medicine Unlocked*, *66*, 101828. https://doi.org/10.1016/j.imu.2026.101828
